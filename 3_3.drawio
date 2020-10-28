@@ -1,1 +1,121 @@
-<mxfile host="app.diagrams.net" modified="2020-10-28T08:13:57.330Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 YaBrowser/20.9.2.102 Yowser/2.5 Safari/537.36" etag="BgLZWFLiX0WADGqpYLV0" version="13.8.5" type="github"><diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">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</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-10-28T09:18:18.351Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 YaBrowser/20.9.2.102 Yowser/2.5 Safari/537.36" etag="2QO216dVetXGdcKq_-qR" version="13.8.5" type="github">
+  <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
+    <mxGraphModel dx="1304" dy="698" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="7baba1c4bc27f4b0-2" value="Игра" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
+          <mxGeometry x="270" y="80" width="100" height="580" as="geometry" />
+        </mxCell>
+        <mxCell id="7baba1c4bc27f4b0-10" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="7baba1c4bc27f4b0-2" vertex="1">
+          <mxGeometry x="45" y="100" width="10" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="7baba1c4bc27f4b0-3" value="Поле" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
+          <mxGeometry x="430" y="80" width="100" height="580" as="geometry" />
+        </mxCell>
+        <mxCell id="7baba1c4bc27f4b0-13" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="7baba1c4bc27f4b0-3" vertex="1">
+          <mxGeometry x="45" y="120" width="10" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="7baba1c4bc27f4b0-4" value="Ячейки" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
+          <mxGeometry x="580" y="80" width="100" height="580" as="geometry" />
+        </mxCell>
+        <mxCell id="7baba1c4bc27f4b0-16" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="7baba1c4bc27f4b0-4" vertex="1">
+          <mxGeometry x="45" y="140" width="10" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="7baba1c4bc27f4b0-5" value=":Object" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
+          <mxGeometry x="750" y="80" width="100" height="580" as="geometry" />
+        </mxCell>
+        <mxCell id="7baba1c4bc27f4b0-8" value="Игроки" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
+          <mxGeometry x="30" y="80" width="100" height="580" as="geometry" />
+        </mxCell>
+        <mxCell id="7baba1c4bc27f4b0-9" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="7baba1c4bc27f4b0-8" vertex="1">
+          <mxGeometry x="45" y="100" width="10" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="7baba1c4bc27f4b0-19" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
+          <mxGeometry x="725" y="230" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7baba1c4bc27f4b0-11" value="&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;Задает, кто начинает игру&lt;/b&gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" target="7baba1c4bc27f4b0-2" edge="1">
+          <mxGeometry x="-0.0244" relative="1" as="geometry">
+            <mxPoint x="85" y="230" as="sourcePoint" />
+            <mxPoint x="285" y="230" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="190" y="230" />
+              <mxPoint x="190" y="220" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7baba1c4bc27f4b0-14" value="&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;Создает поле m*n&lt;/b&gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;exitX=1.019;exitY=0.37;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.013;entryY=0.296;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="7baba1c4bc27f4b0-10" target="7baba1c4bc27f4b0-13" edge="1">
+          <mxGeometry x="-0.0001" y="-19" relative="1" as="geometry">
+            <mxPoint x="370" y="200" as="sourcePoint" />
+            <mxPoint x="474" y="309" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="400" y="321" />
+              <mxPoint x="430" y="310" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZVLFDn94XBPGQm66SeeX-1" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Запрашивает размеры поля&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;entryX=1.039;entryY=0.182;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="7baba1c4bc27f4b0-2" target="7baba1c4bc27f4b0-9">
+          <mxGeometry x="0.0005" y="20" relative="1" as="geometry">
+            <mxPoint x="90" y="260" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="190" y="260" />
+              <mxPoint x="140" y="210" />
+              <mxPoint x="100" y="210" />
+              <mxPoint x="180" y="210" />
+              <mxPoint x="185" y="210" />
+              <mxPoint x="225" y="210" />
+              <mxPoint x="255" y="210" />
+            </Array>
+            <mxPoint x="285" y="260" as="sourcePoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZVLFDn94XBPGQm66SeeX-2" value="&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;Вводят размер поля&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;exitX=0.996;exitY=0.295;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="7baba1c4bc27f4b0-9" target="7baba1c4bc27f4b0-2">
+          <mxGeometry x="-0.0244" relative="1" as="geometry">
+            <mxPoint x="90" y="310" as="sourcePoint" />
+            <mxPoint x="285" y="309.96000000000004" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZVLFDn94XBPGQm66SeeX-3" value="&lt;font style=&quot;font-size: 9px&quot;&gt;Запрашивает, кто первый ходит(Х,О)&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;entryX=1.024;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="7baba1c4bc27f4b0-2" target="7baba1c4bc27f4b0-9">
+          <mxGeometry x="0.0005" y="20" relative="1" as="geometry">
+            <mxPoint x="89.99999999999999" y="180.08000000000004" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="194.61" y="180" />
+              <mxPoint x="144.61" y="130" />
+              <mxPoint x="104.61" y="130" />
+              <mxPoint x="184.61" y="130" />
+              <mxPoint x="189.61" y="130" />
+              <mxPoint x="229.61" y="130" />
+              <mxPoint x="259.61" y="130" />
+            </Array>
+            <mxPoint x="289.61" y="180" as="sourcePoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZVLFDn94XBPGQm66SeeX-5" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Запрашивает длину цепочки&lt;br&gt;&amp;nbsp;для выигрыша&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;entryX=1.027;entryY=0.352;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="7baba1c4bc27f4b0-9">
+          <mxGeometry x="0.0276" y="35" relative="1" as="geometry">
+            <mxPoint x="90" y="335" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="355" y="334.71" />
+              <mxPoint x="345" y="334.71" />
+              <mxPoint x="385" y="334.71" />
+              <mxPoint x="415" y="334.71" />
+            </Array>
+            <mxPoint x="310" y="335" as="sourcePoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZVLFDn94XBPGQm66SeeX-6" value="&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;Вводят размер &lt;br&gt;выигрышной цепочки&lt;/b&gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;exitX=1.039;exitY=0.501;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="7baba1c4bc27f4b0-9" target="7baba1c4bc27f4b0-2">
+          <mxGeometry x="-0.0244" relative="1" as="geometry">
+            <mxPoint x="80" y="401" as="sourcePoint" />
+            <mxPoint x="280" y="400" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
